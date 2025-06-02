@@ -2,6 +2,12 @@
 
 Ez a projekt egy egyszerű villamosenergia-hálózat szimulátor C++ nyelven, amely modellezi az erőműveket, transzformátorokat és fogyasztókat, és képes azok kapcsolatainak grafikus megjelenítésére webes felületen.
 
+## 🔍 Program Futása
+
+Az alábbi kép mutatja a hálózat vizualizációját futás közben:
+
+![Hálózat vizualizáció](images/demo.jpg)
+
 ## ✨ Főbb funkciók
 
 - PowerPlant, TransformerStation, UserEndpoint típusú csomópontok
@@ -14,7 +20,7 @@ Ez a projekt egy egyszerű villamosenergia-hálózat szimulátor C++ nyelven, am
 - C++17 vagy újabb
 - CMake vagy Make
 - Webes vizualizációhoz:
-  - Modern böngésző
+  - Böngésző
   - JavaScript támogatás
 
 ## 🔧 Fordítás (CMake példával)
