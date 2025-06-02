@@ -1,0 +1,9 @@
+```gitignore
+build/
+*.o
+*.exe
+*.out
+*.json
+*.log
+.DS_Store
+.vscode/
